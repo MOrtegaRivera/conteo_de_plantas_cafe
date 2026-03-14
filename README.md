@@ -75,7 +75,7 @@ Imágenes de referencia
 
 Fuente: elaboración propia, con base en el anteproyecto de investigación.
 
-Ejemplo de monitoreo agrícola con dron
+![Dron en campo para monitoreo de cafetal](img/img2.png) 
 
 Fuente: imagen de referencia para ilustrar la captura de información geoespacial con VANT.
 
