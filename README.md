@@ -71,7 +71,7 @@ Este tema tiene relevancia académica porque integra varias áreas de conocimien
 Desde el punto de vista aplicado, el proyecto puede contribuir a reducir costos de inventario en campo, mejorar la precisión en la cuantificación de plantas y generar información espacial actualizable. Asimismo, puede apoyar procesos de sostenibilidad y trazabilidad en un contexto donde se exige información verificable sobre las plantaciones y su localización.
 
 Imágenes de referencia
-Etiquetado de plantas de café en ortomosaico de drone
+![Etiquetado de plantas de café en ortomosaico de drone](img/img1.png)
 
 Fuente: elaboración propia, con base en el anteproyecto de investigación.
 
