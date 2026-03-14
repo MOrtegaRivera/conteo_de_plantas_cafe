@@ -75,9 +75,9 @@ Imágenes de referencia
 
 Fuente: elaboración propia, con base en el anteproyecto de investigación.
 
-![Dron en campo para monitoreo de cafetal](img/img2.png) 
+![Dron en campo para monitoreo de cafetal](img/img2.jpg) 
 
-Fuente: imagen de referencia para ilustrar la captura de información geoespacial con VANT.
+Fuente: elaboración propia, con base en el anteproyecto de investigación
 
 Recursos y enlaces de apoyo
 GitHub
