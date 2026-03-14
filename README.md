@@ -1,8 +1,6 @@
 # Desarrollo de una herramienta para detectar y contar plantas de café mediante imágenes multiespectrales y YOLOv11
 
-**Nombre:** Marilyn Ortega Rivera  
-**Curso:** [Nombre del curso]  
-**Fecha:** 13 de marzo 2026
+**Autora:** Marilyn Ortega Rivera  
 
 ## Introducción
 
