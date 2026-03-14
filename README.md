@@ -91,7 +91,7 @@ Desde el punto de vista aplicado, el proyecto puede contribuir a reducir costos 
 
 *Fuente: elaboración propia, con base en el anteproyecto de investigación.*
 
-![Ejemplo de monitoreo agrícola con dron](img/drone_cafe.jpg)
+![Drone en campo para monitoreo de cafetal](img/img2.jpg)
 
 *Fuente: imagen de referencia para ilustrar la captura de información geoespacial con VANT.*
 
