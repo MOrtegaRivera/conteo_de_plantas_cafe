@@ -1,6 +1,0 @@
-streamlit
-pandas
-plotly
-geopandas
-folium
-streamlit-folium
